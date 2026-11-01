@@ -1,0 +1,63 @@
+#main_side_menu_frame {
+    background-color: #26272b; 
+}
+
+#main_side_menu_frame QLabel {
+    color: #E0E0E0;  
+}
+
+#main_side_menu_frame QPushButton {
+    font-weight: bold;
+   /* background-color: #3A3D42;  */
+    background-color: #26272b; 
+    color: white;
+    border: none; /* Optional visible border */
+    border-top-left-radius: 8px;  
+    border-bottom-left-radius: 8px;  
+    padding: 5px 10px;          
+}
+
+#main_side_menu_frame QPushButton:hover {
+    background-color: #4B4F54;  
+}
+
+#main_side_menu_frame QPushButton:checked {
+    color: black; 
+    background-color: #D9D9D9; 
+}
+
+#main_side_menu_frame QPushButton:pressed {
+    background-color: #62676e; 
+}
+
+#main_side_menu_frame QPushButton:disabled {
+    background-color: #7A7A7A; 
+    color: #D3D3D3; 
+}
+
+
+#menu_bar_frame_r , #menu_bar_frame_ch_r, #menu_bar_frame_co_r{
+    background-color: #26272b;     
+}
+#menu_bar_frame_r QLabel, #menu_bar_frame_ch_r QLabel, #menu_bar_frame_co_r QLabel{
+    color: white;
+}
+#menu_bar_frame_r QPushButton, #menu_bar_frame_ch_r QPushButton{
+    font-weight: bold;
+    background-color: #4B4F54;
+    color: white;
+    border: 1px solid #596a7e;
+    padding: 5px 10px;          
+}
+#menu_bar_frame_r QPushButton:hover , #menu_bar_frame_ch_r QPushButton:hover{
+    background-color: #62676e; 
+}
+
+
+#menu_bar_frame_r QPushButton:pressed , #menu_bar_frame_ch_r QPushButton:pressed{
+    background-color: #787e87; 
+}
+
+#longstrip_view_r {
+    background-color: #3d3e45; 
+}

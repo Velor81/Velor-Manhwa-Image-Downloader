@@ -1,0 +1,10 @@
+Downloads
+output exe
+__pycache__
+.git
+.venv
+output
+*.pyc
+tempCodeRunnerFile.py
+settings.json
+website settings
