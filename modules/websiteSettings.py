@@ -16,7 +16,7 @@ Alternative:
     }
 
 Defaults:
-    title_chapter_source: "url"
+    title_chapter_source: "html_title"
     image_naming: "website_filename"
 """
 
@@ -34,7 +34,7 @@ class WebsiteSettings:
             self.ui.le_add_website_ws.clear()
             if website_name:
                 data = {
-                    "title_chapter_source": "url",
+                    "title_chapter_source": "html_title",
                     "image_naming": "website_filename"
                     }
                 with open(f"{self.website_settings_path}/{website_name}.json", "w", encoding="utf-8") as f:
