@@ -8,7 +8,7 @@ The application uses a general-purpose image extraction approach instead of rely
 ## Screenshot
 ![Velor Manhwa Image Downloader v1.0] (./screenshots/queue-downloading.PNG)
 
-## Wach The App In Action On Youtube
+## Watch The App In Action On Youtube
 https://www.youtube.com/watch?v=M-7K7YoSnSY
 
 ## Features
