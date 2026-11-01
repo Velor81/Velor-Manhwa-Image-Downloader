@@ -4,10 +4,9 @@
 A Python desktop application for extracting, downloading, and organizing Manhwa chapter images.
 
 The application uses a general-purpose image extraction approach instead of relying on website-specific rules that require frequent updates whenever websites change their domains or structures.
-## Screenshot
 
-![Velor Manhwa Image Downloader v1.0]
-(screenshots/queue downloading.PNG)
+## Screenshot
+![Velor Manhwa Image Downloader v1.0] (./screenshots/queue-downloading.PNG)
 
 ## Features
 
